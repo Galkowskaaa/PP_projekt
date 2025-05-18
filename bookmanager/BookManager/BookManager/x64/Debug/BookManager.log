@@ -1,2 +1,7 @@
-﻿  BookManager.cpp
-  BookManager.vcxproj -> C:\Users\WiktoriaGałkowska\source\repos\PP_projekt\bookmanager\BookManager\x64\Debug\BookManager.exe
+﻿  Book.cpp
+  BookManager.cpp
+  main.cpp
+  utils.cpp
+  Generowanie kodu...
+  LINK : nie znaleziono elementu C:\Users\WiktoriaGałkowska\Documents\GitHub\PP_projekt\bookmanager\BookManager\x64\Debug\BookManager.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  BookManager.vcxproj -> C:\Users\WiktoriaGałkowska\Documents\GitHub\PP_projekt\bookmanager\BookManager\x64\Debug\BookManager.exe
